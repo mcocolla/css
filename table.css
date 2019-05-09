@@ -1,24 +1,35 @@
 body {
     font: normal normal 13px "Segoe UI", Calibri, Arial, sans-serif;
 }
+h1,h2,h3,h4,h5,h6 {
+    font-family:"Segoe UI Semibold",Cambria,Helvetica;
+}
 h1 {
     color:#333;
-    font-size:18px;
+    font-size:28px;
+}
+h2 {
+    color:#333;
+    font-size:24px;
+}
+h3 {
+    color:#444;
+    font-size:20px;
 }
 table {
-    border: solid 1px #000000;
+    border: solid 1px #000;
     border-collapse: collapse;
     border-spacing: 0;
 }
 th {
-    background-color: #000000;
-    border: solid 1px #000000;
-    color: #ffffff;
+    background-color: #000;
+    border: solid 1px #000;
+    color: #fff;
     padding: 10px;
     text-align: left;
 }
 td {
-    border: solid 1px #000000;
+    border: solid 1px #000;
     color: #444;
     padding: 10px;
 }
