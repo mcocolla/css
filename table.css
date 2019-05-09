@@ -1,8 +1,14 @@
+body {
+    font: normal normal 13px "Segoe UI",Arial, sans-serif;
+}
+h1 {
+    color:#333;
+    font-size:18px;
+}
 table {
     border: solid 1px #000000;
     border-collapse: collapse;
     border-spacing: 0;
-    font: normal 13px "Segoe UI",Arial, sans-serif;
 }
 th {
     background-color: #000000;
@@ -13,7 +19,7 @@ th {
 }
 td {
     border: solid 1px #000000;
-    color: #333;
+    color: #444;
     padding: 10px;
 }
 tr:nth-child(odd) {
