@@ -25,13 +25,13 @@ th {
     background-color: #000;
     border: solid 1px #000;
     color: #fff;
-    padding: 10px;
+    padding: 8px;
     text-align: left;
 }
 td {
     border: solid 1px #000;
     color: #444;
-    padding: 10px;
+    padding: 8px;
 }
 tr:nth-child(odd) {
     background: #eee;
