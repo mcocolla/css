@@ -30,7 +30,7 @@ th {
 }
 td {
     border: solid 1px #000;
-    color: #eee;
+    color: #333;
     padding: 8px;
 }
 tr:nth-child(odd) {
